@@ -1,4 +1,4 @@
-# Student-Performance-for-Visualization
+# Student-Performance-Visualization
 Performing Exploration Data Analysis and Visualization on Student Performance dataset for visualization applications
 
 ![3d](https://user-images.githubusercontent.com/57282214/140427314-00efe812-da15-4082-a8b5-64e80a2e9dc4.PNG)
